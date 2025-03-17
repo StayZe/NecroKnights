@@ -37,11 +37,8 @@ Developed by StayZe, akz4afr, and Yxmmy as part of our school's annual project.
 
 ## Meet the Team
 - **StayZe** - Game Design & Programming
-- **akz4afr** - Art & Level Design
+- **akz4afr** - Website designer
 - **Yxmmy** - Sound Design & Additional Programming
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
