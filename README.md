@@ -1,6 +1,6 @@
 # NecroKnights
 
-![NecroKnights Logo]([https://imgur.com/a/YC5JQYP](https://i.imgur.com/dG1yKQV.png))
+![NecroKnights Logo](https://cdn.discordapp.com/attachments/1288445936233746463/1351221584987422720/NecroKnights.png?ex=67d996aa&is=67d8452a&hm=3b9dfce863eb6931abd3c7f7065ee69be0f866a782fd92c938ca0fe9202426ca&)
 
 ## Overview
 **NecroKnights** is a 2D top-down pixel art shooter inspired by Call of Duty and Dead Ops Arcade. Players navigate through dark, neon-infused battlefields as knights with necromantic powers, combining fast-paced combat with tactical gameplay in a unique pixel art aesthetic.
